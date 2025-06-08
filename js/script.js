@@ -52,7 +52,7 @@
     /******************************************************
      *  LOAD CSV & POPULATE COUNTRY DROPDOWN
      ******************************************************/
-    d3.csv("global_air_pollution_data.csv").then(data => {
+    d3.csv("data/global_air_pollution_data.csv").then(data => {
       allData = data;
 
       // Populate countries
