@@ -42,7 +42,7 @@ This stacked bar chart breaks down each country's average AQI by its constituent
 #### 📊 5. Average Pollutant Levels by AQI Category
 This grouped bar chart shows how pollutant concentrations escalate as the AQI category worsens. It highlights the pronounced spike in PM2.5 during "Hazardous" events and clarifies how different combinations of pollutants lead to dangerous air quality.
 
-####  सिटीscape: 6. Top 15 Cities Driving Hazardous AQI
+####    6. Top 15 Cities Driving Hazardous AQI
 This horizontal bar chart pinpoints the specific cities with the highest number of "Hazardous" readings, focusing attention on the most urgent areas for regulatory intervention and public health alerts.
 
 ---
