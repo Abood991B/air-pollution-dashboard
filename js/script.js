@@ -1,3 +1,15 @@
+    /**
+     * Interactive Data Visualization for Global Air Pollution
+     *
+     * This script uses the D3.js library to render a series of charts
+     * analyzing a global AQI dataset.
+     *
+     * @author      Abdulrahman Baidaq
+     * @version     1.0
+     * @date        08/06/2025
+     * @github      https://github.com/Abood991B/air-pollution-dashboard
+     */
+
 
     /******************************************************
      *         GLOBAL VARIABLES & TOOLTIP, etc.
