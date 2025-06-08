@@ -96,7 +96,7 @@ To run this project locally, a simple local server is required to handle the `d3
 
 ## ⚖️ License
 
-This project is protected under the **MIT License**. This allows for broad freedom to use and modify the code, but requires that the original copyright notice (crediting you as the author) be included in any copies.
+This project is protected under the **MIT License**. This allows for broad freedom to use and modify the code, but requires that the original copyright notice be included in any copies.
 
 See the [LICENSE](./LICENSE) file for more details.
 
