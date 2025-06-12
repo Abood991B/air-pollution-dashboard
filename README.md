@@ -36,7 +36,7 @@ This pie chart provides a snapshot of overall AQI categories. It is fully intera
 #### 🔥 3. Heatmap of AQI Across Countries
 This color-coded heatmap shows the *proportion* of AQI readings per category within each country. It vividly contrasts nations where "Good" or "Moderate" conditions dominate against those with more frequent "Unhealthy" levels, revealing regional hotspots of concern.
 
-####  stacked_bar_chart: 4. Relative Contributions of Pollutants to AQI
+####  4. Relative Contributions of Pollutants to AQI
 This stacked bar chart breaks down each country's average AQI by its constituent pollutants. It clearly shows how PM2.5 is a primary driver of poor air quality in many regions, while NO₂ might be more prominent in areas with heavy traffic.
 
 #### 📊 5. Average Pollutant Levels by AQI Category
